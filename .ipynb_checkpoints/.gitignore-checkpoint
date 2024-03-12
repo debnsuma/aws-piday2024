@@ -1,0 +1,17 @@
+fine-tuning-datasets
+fine-tuning-datasets/**
+fine-tuning-datasets/test-cnn-10.jsonl
+fine-tuning-datasets/train-cnn-5K.jsonl
+fine-tuning-datasets/validation-cnn-1K.jsonl
+fine-tuning-datasets/model-customization-job-alj3y4u71zga
+fine-tuning-datasets/model-customization-job-alj3y4u71zga/**
+01.Bedrock_Claude_Chat/bedrock-python-sdk
+01.Bedrock_Claude_Chat/bedrock-python-sdk.zip
+01.Bedrock_Claude_Chat/verification
+03.FineTuning_Bedrock/fine-tuning-datasets
+03.FineTuning_Bedrock/fine-tuning-datasets/**
+03.FineTuning_Bedrock/fine-tuning-datasets/test-cnn-10.jsonl
+03.FineTuning_Bedrock/fine-tuning-datasets/train-cnn-5K.jsonl
+03.FineTuning_Bedrock/fine-tuning-datasets/validation-cnn-1K.jsonl
+03.FineTuning_Bedrock/fine-tuning-datasets/model-customization-job-alj3y4u71zga
+03.FineTuning_Bedrock/fine-tuning-datasets/model-customization-job-alj3y4u71zga/**
